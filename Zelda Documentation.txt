@@ -1,0 +1,4 @@
+Zelda is a 3D Tilemap arcade game developed in Unity3D having the idea of "Legends of Zelda".
+In this game a player has to get the key and open the doors to the next Level by passing through several difficulties like Enemies, Some of them are waiting for Zelda and some are roaming around.
+If Zelda got hurt, some health pickers can be helpful which are hidden or can be found in bonus round.
+This game is Available for PC as well as for Android..!
